@@ -1,0 +1,16 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÿú‹åHØRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÕØÚþÿÿÿÿH×RMINORZ
+CODE_SMELL
+s
+java:S1128	"@Remove this unused import 'com.globallogic.dao.MorningGreeting'.(ë³Ü 8ÖƒÆ†ù0HÚRMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ýÿÿÿÿ8ãÊž†ù0H­RMINORZ
+CODE_SMELL
+w
+java:S1128"KRemove this unused import 'org.springframework.context.annotation.Primary'.(“ð›ßHÚRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ªâö®ùÿÿÿÿ8ãÊž†ù0H«RMAJORZ
+CODE_SMELL

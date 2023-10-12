@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;name&apos; in &apos;com.globallogic.UserDefinedInterfaces.PredicateDemo.main(...)&apos; to &apos;names&apos;&#x0A;- Original project: &apos;JAVA8&apos;&#x0A;- Original element: &apos;com.globallogic.UserDefinedInterfaces.PredicateDemo.main(String[]).name&apos;&#x0A;- Renamed element: &apos;name&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;name&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.globallogic.UserDefinedInterfaces{PredicateDemo.java[PredicateDemo~main~\[QString;@name!186!226!204!207!QArrayList\&lt;QString;&gt;;!0!false" name="names" references="true" stamp="1665483600995" version="1.0"/>
+</session>

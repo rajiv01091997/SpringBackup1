@@ -1,0 +1,9 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(†ş„d8‹¼Û†ù0HşRMAJORZ
+CODE_SMELL
+w
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿HÿRMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHRINFOZ
+CODE_SMELL

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;CustomEcxeption.eligibilityForVOte&apos; to &apos;eligibilityForVOteException&apos;&#x0A;- Original project: &apos;ExceptionHandling&apos;&#x0A;- Original element: &apos;CustomEcxeption.eligibilityForVOte&apos;&#x0A;- Renamed element: &apos;CustomEcxeption.eligibilityForVOteException&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;eligibilityForVOte&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;CustomEcxeption{CustomRuntimeExcetion.java[eligibilityForVOte" matchStrategy="1" name="eligibilityForVOteException" qualified="false" references="true" similarDeclarations="false" stamp="1665600374673" textual="false" version="1.0"/>
+</session>
